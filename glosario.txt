@@ -1,0 +1,7 @@
+Dentro del trabajo con Git
+
+
+Push significa enviar mis cambios al repositorio remoto 
+pull significa actualizar mi repositorio local
+
+COMMIT significa, indicarle al control de versiones que los cambioshechos son definitivos 
